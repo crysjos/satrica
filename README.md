@@ -1,0 +1,2 @@
+# satrica
+satrica-info
